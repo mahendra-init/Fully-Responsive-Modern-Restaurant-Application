@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+### **Restaurant Landing Page**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### **[Live Demo](/)**
 
-In the project directory, you can run:
+![image](https://camo.githubusercontent.com/a85a3ea6d2267b7f09f0b5f7be8944e0fdd2eeae0cf80dd8706649e89678e936/68747470733a2f2f692e6962622e636f2f356a78424b70772f696d6167652e706e67)
 
-### `npm start`
+### **Project Description:** 
+This modern UI/UX design website is designed to provide users with a seamless and intuitive experience while exploring the latest advancements in technology. With a focus on modern design principles and user-centered approach, we have created a visually stunning website that is easy to navigate and packed with useful information.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The website is designed to be responsive and adaptable, ensuring a smooth user experience across all devices and screen sizes. The layout is clean and minimalist, with a focus on typography and imagery. The website's navigation is intuitive and easy to use, making it simple for users to find the information they need. The website is packed with engaging and informative content, including articles, videos, and interactive elements.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **Technologies used:**
+This modern UI/UX design website is built using a combination of cutting-edge technologies, including HTML, CSS, and React JS. We have utilized the power of React JS to create a dynamic and interactive user interface that is both responsive and easy to navigate.
 
-### `npm test`
+The only external library I've used is **'react-icons'** which provides all the neccessary icons for our website.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **Design Process:**
+This design process for this modern UI/UX design website was simple and based on the BEM (Block-Element-Modifier) model. This approach allows for a clear separation of concerns between the different components of the website and makes it easy to maintain and update the codebase.
 
-### `npm run build`
+We have also used React efficiently to take advantage of its reusability features. By breaking down the website into small, reusable components, we were able to create a highly modular and maintainable codebase. This not only made the development process more efficient but also made it easier to update and maintain the website in the future.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The BEM model, combined with the efficient use of React, allowed us to create a website that is both visually stunning and easy to navigate. The website's layout is clean and minimalist, with a focus on typography and imagery. Overall, our design process for this modern UI/UX design website was simple and effective, utilizing the BEM model and efficient use of React to create a visually stunning and user-friendly website.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Deployment:**
+The deployment of this modern UI/UX design website was done with the help of netlify.com. Netlify is a popular platform for deploying web applications and static websites. It provides a simple and efficient way to host, deploy, and manage web projects.
 
-### `npm run eject`
+We used Netlify's continuous deployment feature, which automatically deploys updates to the website whenever changes are pushed to the GitHub repository. This ensured that the website was always up-to-date and that new features and bug fixes were deployed as soon as they were available.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Netlify also provides a range of features for managing and monitoring the website, including analytics, monitoring, and performance optimization. This made it easy to track the website's performance, identify and fix any issues, and make improvements to the user experience.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Overall, Netlify was an invaluable tool for deploying this modern UI/UX design website. Its ease of use, range of features, and efficient deployment process made it the perfect choice for hosting and managing this web project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### **Contact:**
+#### [Mahendra Yadav](https://mahendra-yadav.netlify.app/)
